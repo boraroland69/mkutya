@@ -1,0 +1,23 @@
+.hasab {
+
+}
+
+
+footer {
+
+
+}
+
+ul li{
+    display: inline;
+}
+
+body{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #d2691e;
+}
+
+h1{
+    border-bottom: 2px solid #a52a2a;
+}
